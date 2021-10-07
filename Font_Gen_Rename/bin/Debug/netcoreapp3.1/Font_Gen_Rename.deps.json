@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Font_Gen_Rename/1.0.0": {
+        "runtime": {
+          "Font_Gen_Rename.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Font_Gen_Rename/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

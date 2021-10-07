@@ -1,0 +1,16 @@
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\bin\Debug\netcoreapp3.1\Font_Gen_Rename.exe
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\bin\Debug\netcoreapp3.1\Font_Gen_Rename.deps.json
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\bin\Debug\netcoreapp3.1\Font_Gen_Rename.runtimeconfig.json
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\bin\Debug\netcoreapp3.1\Font_Gen_Rename.runtimeconfig.dev.json
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\bin\Debug\netcoreapp3.1\Font_Gen_Rename.dll
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\bin\Debug\netcoreapp3.1\Font_Gen_Rename.pdb
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.csproj.AssemblyReference.cache
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.Form1.resources
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.csproj.GenerateResource.cache
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.AssemblyInfoInputs.cache
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.AssemblyInfo.cs
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.csproj.CoreCompileInputs.cache
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.dll
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.pdb
+C:\Users\crow\source\repos\Font_Gen_Rename\Font_Gen_Rename\obj\Debug\netcoreapp3.1\Font_Gen_Rename.genruntimeconfig.cache
